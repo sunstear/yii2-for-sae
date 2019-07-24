@@ -1,5 +1,5 @@
 {
-    "name": "postor/yii2-for-sae",
+    "name": "sunstear/yii2-for-sae",
     "description": "The adapt for Yii2 framework to run on sina app engine.",
     "version":"0.0.6",
     "type": "yii2-extension",
